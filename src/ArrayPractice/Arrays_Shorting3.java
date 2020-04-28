@@ -1,8 +1,4 @@
-package ArrayPracticeZero;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-import org.w3c.dom.ls.LSOutput;
-import sun.rmi.transport.proxy.RMISocketInfo;
+package ArrayPractice;
 
 import java.util.Arrays;
 

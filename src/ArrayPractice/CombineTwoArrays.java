@@ -1,8 +1,8 @@
-package ArrayPracticeZero;
+package ArrayPractice;
 
 
 import java.util.Arrays;
-import java.util.Scanner;
+
 public class CombineTwoArrays {
     public static void main(String[] args) {
                 /*write a program that can combine two arrays of any length and return the third array

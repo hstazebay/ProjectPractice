@@ -1,4 +1,4 @@
-package ArrayPracticeZero;
+package ArrayPractice;
 
 public class eachLoop_Mail {
 
